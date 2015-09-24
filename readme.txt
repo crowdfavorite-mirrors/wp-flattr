@@ -3,8 +3,8 @@ Contributors: aphex3k, VoxPelli
 Donate link: https://flattr.com/donation/give/to/der_michael
 Tags: flattr, donate, micropayments
 Requires at least: 3.3
-Tested up to: 3.4
-Stable tag: 1.2.0
+Tested up to: 4.1.1 
+Stable tag: 1.2.1
 
 This plugin allows you to easily add a Flattr donation buttons to your blog and blog posts.
 
@@ -55,6 +55,9 @@ For options that use "yes" or "no" you can instead of "no" use "n" or "off" - an
 Flattr buttons now detectable by browsers, site itself can now be flattred, a new shortcode and widgets is available etc.
 
 == Changelog ==
+
+= 1.2.1 =
+* New Feature: Nicer, modern-looking static buttons for both pages and feed with support for "HiDPI" displays.
 
 = 1.2.0 =
 * New Feature: The payment links in RSS/Atom can now be added without adding the graphical buttons and are now on by default
